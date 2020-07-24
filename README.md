@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # やったー！
 ### Yahoo! Finance quote summaries as delicious, digestible JSON.
 
@@ -16,3 +17,6 @@ For example, `ruby yattaa.rb CSL.AX` will output the quote summary for CSL Limit
 This software and its author are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Yahoo or Verizon Media, any of their subsidiaries, or affiliates. The official Yahoo! Finance website can be found at http://finance.yahoo.com.
 
 For other legal matters, please see the [LICENSE file](LICENSE).
+=======
+# project-demo-master
+>>>>>>> ab7009b57e1e4a85c7e7a513dd9f54d276aaecd4
